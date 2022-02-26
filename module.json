@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": true,
+    "author": "avishais קרדיט ענק לכל הנוסחאות מהם למדתי ויוצריהם",
+    "name": "פותח כל חנות",
+    "description": ".בנק, ארון בגדים, חנות מסחר, בנק חיית מחמד, בנק גילד, חנות מכולת, מכולת מיוחדת, חנות וואנגרדיאן</br>in eng lng - bank , wardrobe, trade borker, pet bank, guild bank, merchant (hw), sm, vangurdian.</br>! להסבר הוראות נא ללחוץ בצד ימין על כפתור  אינפורמיישן שנראה כך",
+    "version": "גרסה - סופית",
+    "options":{
+    	"reloadable": true
+    }
+}
